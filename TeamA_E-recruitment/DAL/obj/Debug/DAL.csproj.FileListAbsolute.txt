@@ -1,0 +1,22 @@
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjectFactory.dll
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\bin\Debug\Types.dll
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjects.dll
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjectFactory.pdb
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\bin\Debug\Types.pdb
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjects.pdb
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\DAL\obj\Debug\DAL.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\DAL.dll
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\DAL.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjectFactory.dll
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\Types.dll
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjects.dll
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjectFactory.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\Types.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjects.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\obj\Debug\DAL.dll
+C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\obj\Debug\DAL.pdb

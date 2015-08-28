@@ -1,0 +1,17 @@
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\BLLFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\BLLFactory.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\BLL.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\Types.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\DALFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\BOFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\DAL.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\BO.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\BLL.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\Types.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\DALFactory.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\BOFactory.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\DAL.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\bin\Debug\BO.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\obj\Debug\BLLFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BLLFactory\obj\Debug\BLLFactory.pdb

@@ -1,0 +1,170 @@
+*{ padding: 0px;
+    text-align: left;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}*
+body
+{ 
+  background:#eee center top;
+  color: #dcdcdc;
+  font: .8em normal small "Trebuchet MS",Tahoma, verdana, arial, helvetica, sans-serif;line-height: 1.6em;
+}
+
+p
+{
+	font-family:arial;
+	font-size:0.9em;
+}
+
+#wrapper 
+{
+	width:916px;
+	margin:5px auto;
+	background:#ffffff;
+	min-height:700px;
+	height:auto;
+}
+#top,#footer,#main,#content,#container
+{
+	width:917px;
+	margin:0px auto;
+}
+#top
+{
+	
+	background:#fdfdfd url(images/cstrip.gif) repeat-x;
+	height:74px;
+}
+#logo h1
+{
+	font-family:ae_Cortoba;
+    font-size:2.4em;
+    font-weight:500;
+    margin:0px;
+    padding-left:50px;
+	padding-top:20px;
+	color:#eee;
+    height: 23px;
+    width: 70px;
+}
+#logo p
+{
+	 padding-left:60px;
+}
+#logo
+{
+float:left;
+    width: 205px;
+    height: 75px;
+}
+
+ul
+{
+list-style:none;
+color:Black;
+    height: 67px;
+    width: 506px;
+}
+#menu li
+{
+display:inline;
+}
+li a
+{
+text-align:center;
+color:black;
+float: left;
+height: 39px;
+margin-right: 1px;
+text-decoration: none;
+font-size: 1.1em;
+padding: 20px 20px 13px 20px;
+}
+#menu
+{
+margin-left:350px;
+color:black;
+}
+a:link    {color:black;
+    width: 86px;
+}
+
+ a:hover
+{
+    color:white;
+    background-color: #666666;
+}
+#main
+{
+    background: black;
+    height: 284px;
+    float: right;
+}
+#content
+{
+	height:180px;
+    background:url(images/cstrip.gif) repeat-x;	
+}
+#left,#right
+{
+	width:275px;
+    height:184px;padding-top:5px;
+    	
+}
+#left
+{
+	float:left;
+	
+}
+#right
+{
+	float:right;
+	
+}
+#center
+{
+	margin:0px 275px 0px 275px;
+	border-left:1px solid #4F4A4A;
+	border-right:1px solid #4F4A4A;
+	height:177px;
+    padding-top:5px;
+}
+#left h1,#right h1,#center h1
+{
+font-size:1.5em;
+padding:10px 0 0 50px;
+font-family:arial;
+}
+#left p,#right p,#center p
+{
+padding:10px 15px 0px 20px;
+}
+#left h2,#right h2,#center h2
+{
+	padding-left:170px;
+	font-family:arial,verdana,sans-serif,tahoma;
+	font-size:0.9em;
+}
+#left a,#right a,#center a
+{
+	color:#fff;
+	text-decoration:none;
+}
+
+
+#footer {
+	background: #2e2e2e url(images/fstrip1.gif) repeat-x;
+	margin: 0 auto;
+	text-align: center;
+	clear:both;
+	height:48px;
+}
+#footer a {
+	color: #5E6F6E;
+	text-decoration: none;
+}
+#footer a:hover {
+	color: #9ab2be;
+	text-decoration: underline;
+}

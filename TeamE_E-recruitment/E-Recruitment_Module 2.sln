@@ -1,0 +1,146 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "E-Recruitment_Module 2_Team E", "..\..\WebSites\E-Recruitment_Module 2_Team E", "{3D06A878-A95B-4221-A2DE-1438BD96E775}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/E-Recruitment_Module 2_Team E"
+		Debug.AspNetCompiler.PhysicalPath = "E-Recruitment_Module 2_Team E\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\E-Recruitment_Module 2_Team E\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/E-Recruitment_Module 2_Team E"
+		Release.AspNetCompiler.PhysicalPath = "E-Recruitment_Module 2_Team E\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\E-Recruitment_Module 2_Team E\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1498"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988} = {ED357713-635B-42C5-BCDD-57DCA0A6C988}
+		{CDA8B126-4B2B-40CE-9B04-544F59968F04} = {CDA8B126-4B2B-40CE-9B04-544F59968F04}
+		{F3C7F898-99DE-4567-854B-52BF4F9F0431} = {F3C7F898-99DE-4567-854B-52BF4F9F0431}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BO", "BO\BO.csproj", "{291613DD-3058-4CB7-B5BF-F0FB011EA281}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988} = {ED357713-635B-42C5-BCDD-57DCA0A6C988}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOFactory", "BOFactory\BOFactory.csproj", "{CDA8B126-4B2B-40CE-9B04-544F59968F04}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988} = {ED357713-635B-42C5-BCDD-57DCA0A6C988}
+		{291613DD-3058-4CB7-B5BF-F0FB011EA281} = {291613DD-3058-4CB7-B5BF-F0FB011EA281}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{CE5A3327-FDA3-424A-9830-47D1D0725AAA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3DDB0623-B173-47E7-9183-7F5960CD1389} = {3DDB0623-B173-47E7-9183-7F5960CD1389}
+		{CDA8B126-4B2B-40CE-9B04-544F59968F04} = {CDA8B126-4B2B-40CE-9B04-544F59968F04}
+		{3F44FEDA-9AD3-47B0-859C-C93AC8E21FDC} = {3F44FEDA-9AD3-47B0-859C-C93AC8E21FDC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLLFactory", "BLLFactory\BLLFactory.csproj", "{F3C7F898-99DE-4567-854B-52BF4F9F0431}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988} = {ED357713-635B-42C5-BCDD-57DCA0A6C988}
+		{CE5A3327-FDA3-424A-9830-47D1D0725AAA} = {CE5A3327-FDA3-424A-9830-47D1D0725AAA}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3DDB0623-B173-47E7-9183-7F5960CD1389}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988} = {ED357713-635B-42C5-BCDD-57DCA0A6C988}
+		{CDA8B126-4B2B-40CE-9B04-544F59968F04} = {CDA8B126-4B2B-40CE-9B04-544F59968F04}
+		{291613DD-3058-4CB7-B5BF-F0FB011EA281} = {291613DD-3058-4CB7-B5BF-F0FB011EA281}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALFactory", "DALFactory\DALFactory.csproj", "{3F44FEDA-9AD3-47B0-859C-C93AC8E21FDC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988} = {ED357713-635B-42C5-BCDD-57DCA0A6C988}
+		{3DDB0623-B173-47E7-9183-7F5960CD1389} = {3DDB0623-B173-47E7-9183-7F5960CD1389}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Types", "Types\Types.csproj", "{ED357713-635B-42C5-BCDD-57DCA0A6C988}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://intvmtfs01:8080/tfs/test
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BLL\\BLL.csproj
+		SccProjectName1 = BLL
+		SccLocalPath1 = BLL
+		SccProjectUniqueName2 = BLLFactory\\BLLFactory.csproj
+		SccProjectName2 = BLLFactory
+		SccLocalPath2 = BLLFactory
+		SccProjectUniqueName3 = BO\\BO.csproj
+		SccProjectName3 = BO
+		SccLocalPath3 = BO
+		SccProjectUniqueName4 = BOFactory\\BOFactory.csproj
+		SccProjectName4 = BOFactory
+		SccLocalPath4 = BOFactory
+		SccProjectUniqueName5 = DAL\\DAL.csproj
+		SccProjectName5 = DAL
+		SccLocalPath5 = DAL
+		SccProjectUniqueName6 = DALFactory\\DALFactory.csproj
+		SccProjectName6 = DALFactory
+		SccLocalPath6 = DALFactory
+		SccProjectUniqueName7 = Types\\Types.csproj
+		SccProjectName7 = Types
+		SccLocalPath7 = Types
+		SccWebProject8 = true
+		SccProjectUniqueName8 = ..\\..\\WebSites\\E-Recruitment_Module\u00202_Team\u0020E
+		SccProjectName8 = E-Recruitment_Module\u00202_Team\u0020E
+		SccLocalPath8 = C:\\Documents\u0020and\u0020Settings\\668576\\My\u0020Documents\\T\u002018\u0020-\u0020Team\u0020E\\CaseStudy\\WebSites\\E-Recruitment_Module\u00202_Team\u0020E\\
+		SccProjectEnlistmentChoice8 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D06A878-A95B-4221-A2DE-1438BD96E775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D06A878-A95B-4221-A2DE-1438BD96E775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D06A878-A95B-4221-A2DE-1438BD96E775}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D06A878-A95B-4221-A2DE-1438BD96E775}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{291613DD-3058-4CB7-B5BF-F0FB011EA281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291613DD-3058-4CB7-B5BF-F0FB011EA281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291613DD-3058-4CB7-B5BF-F0FB011EA281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291613DD-3058-4CB7-B5BF-F0FB011EA281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA8B126-4B2B-40CE-9B04-544F59968F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA8B126-4B2B-40CE-9B04-544F59968F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA8B126-4B2B-40CE-9B04-544F59968F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA8B126-4B2B-40CE-9B04-544F59968F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5A3327-FDA3-424A-9830-47D1D0725AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5A3327-FDA3-424A-9830-47D1D0725AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5A3327-FDA3-424A-9830-47D1D0725AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5A3327-FDA3-424A-9830-47D1D0725AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C7F898-99DE-4567-854B-52BF4F9F0431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C7F898-99DE-4567-854B-52BF4F9F0431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C7F898-99DE-4567-854B-52BF4F9F0431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C7F898-99DE-4567-854B-52BF4F9F0431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDB0623-B173-47E7-9183-7F5960CD1389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDB0623-B173-47E7-9183-7F5960CD1389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDB0623-B173-47E7-9183-7F5960CD1389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDB0623-B173-47E7-9183-7F5960CD1389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F44FEDA-9AD3-47B0-859C-C93AC8E21FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F44FEDA-9AD3-47B0-859C-C93AC8E21FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F44FEDA-9AD3-47B0-859C-C93AC8E21FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F44FEDA-9AD3-47B0-859C-C93AC8E21FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED357713-635B-42C5-BCDD-57DCA0A6C988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

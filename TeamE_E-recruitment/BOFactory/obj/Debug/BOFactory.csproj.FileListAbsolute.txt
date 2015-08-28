@@ -1,0 +1,9 @@
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\bin\Debug\BOFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\bin\Debug\BOFactory.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\bin\Debug\BO.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\bin\Debug\Types.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\bin\Debug\BO.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\bin\Debug\Types.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\obj\Debug\BOFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\BOFactory\obj\Debug\BOFactory.pdb

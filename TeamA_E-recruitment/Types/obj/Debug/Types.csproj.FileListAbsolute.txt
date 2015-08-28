@@ -1,0 +1,10 @@
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\Types\bin\Debug\Types.dll
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\Types\bin\Debug\Types.pdb
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\Types\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\Types\obj\Debug\Types.dll
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\Types\obj\Debug\Types.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\Types\bin\Debug\Types.dll
+C:\Users\Sai\Downloads\TeamA_E-recruitment\Types\bin\Debug\Types.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\Types\obj\Debug\Types.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Downloads\TeamA_E-recruitment\Types\obj\Debug\Types.dll
+C:\Users\Sai\Downloads\TeamA_E-recruitment\Types\obj\Debug\Types.pdb

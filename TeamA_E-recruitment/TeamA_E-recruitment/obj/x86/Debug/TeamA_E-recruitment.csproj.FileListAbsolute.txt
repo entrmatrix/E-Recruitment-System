@@ -1,0 +1,10 @@
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\TeamA_E-recruitment\bin\Debug\TeamA_E-recruitment.exe
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\TeamA_E-recruitment\bin\Debug\TeamA_E-recruitment.pdb
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\TeamA_E-recruitment\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\TeamA_E-recruitment\obj\x86\Debug\TeamA_E-recruitment.exe
+C:\Documents and Settings\667015\My Documents\TeamA_E-recruitment\TeamA_E-recruitment\obj\x86\Debug\TeamA_E-recruitment.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\TeamA_E-recruitment\bin\Debug\TeamA_E-recruitment.exe
+C:\Users\Sai\Downloads\TeamA_E-recruitment\TeamA_E-recruitment\bin\Debug\TeamA_E-recruitment.pdb
+C:\Users\Sai\Downloads\TeamA_E-recruitment\TeamA_E-recruitment\obj\x86\Debug\TeamA_E-recruitment.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Downloads\TeamA_E-recruitment\TeamA_E-recruitment\obj\x86\Debug\TeamA_E-recruitment.exe
+C:\Users\Sai\Downloads\TeamA_E-recruitment\TeamA_E-recruitment\obj\x86\Debug\TeamA_E-recruitment.pdb

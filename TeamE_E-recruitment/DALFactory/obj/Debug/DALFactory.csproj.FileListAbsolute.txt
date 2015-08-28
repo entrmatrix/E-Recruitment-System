@@ -1,0 +1,13 @@
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\DALFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\DALFactory.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\DAL.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\Types.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\BOFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\BO.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\DAL.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\Types.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\BOFactory.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\bin\Debug\BO.pdb
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\obj\Debug\DALFactory.dll
+C:\Documents and Settings\668576\My Documents\T 18 - Team E\CaseStudy\Main\E-Recruitment_Module 2_Team E\DALFactory\obj\Debug\DALFactory.pdb

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="HomePage.aspx" title="Home"  description="Home">
+        <siteMapNode url="addvacancy.aspx" title="Add Vacancy"  description="Add Vacancy" />
+      <siteMapNode url="Addvacancyrequest.aspx" title="Add Vacancy"  description="Add Vacancy" />
+        <siteMapNode url="DeleteVacancy.aspx" title="Delete Vacancy"  description="Delete Vacancy" />
+      <siteMapNode url="EditVacancy.aspx" title="Edit Vacancy"  description="Edit Vacancy" />
+      <siteMapNode url="Approve.aspx" title="Approve Vacancy"  description="Approve Vacancy" />
+      <siteMapNode url="AddRecruitmentRequest.aspx" title="Add Recruitment Request"  description="Add Recruitment Request" />
+      <siteMapNode url="Copy of EditandDeleteRecruitmentRequest.aspx" title="Edit/Delete Recruitment Request"  description="Edit/Delete Recruitment Request" />
+      <siteMapNode url="DisplayRecruitmentRequest.aspx" title="Display Recruitment Request"  description="Display Recruitment Request" />
+      <siteMapNode url="AddPlacementConsultant.aspx" title="Add Placement Consultant"  description="Add Placement Consultant" />
+      <siteMapNode url="DisplayPlacementConsultant.aspx" title="Search Placement Consultant"  description="Search Placement Consultant" />
+      <siteMapNode url="EditandDeletePlacementConsultant.aspx" title="Edit/Delete Placement Consultant"  description="Edit/Delete Placement Consultant" />
+      <siteMapNode url="About.aspx" title="About Us"  description="About Us" />
+      <siteMapNode url="Contact Us.aspx" title="Contact Us"  description="Contact Us" />
+      <siteMapNode url="NoHR.aspx" title="Notice"  description="Not a HR" />
+      <siteMapNode url="noUnithead.aspx" title="Notice"  description="Not a Unit Head" />
+    </siteMapNode>
+</siteMap>
