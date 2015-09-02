@@ -12,3 +12,10 @@ C:\Users\Sai\Downloads\TeamA_E-recruitment\BussinessObjects\bin\Debug\Types.pdb
 C:\Users\Sai\Downloads\TeamA_E-recruitment\BussinessObjects\obj\x86\Debug\BussinessObjects.csprojResolveAssemblyReference.cache
 C:\Users\Sai\Downloads\TeamA_E-recruitment\BussinessObjects\obj\x86\Debug\BussinessObjects.dll
 C:\Users\Sai\Downloads\TeamA_E-recruitment\BussinessObjects\obj\x86\Debug\BussinessObjects.pdb
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\BussinessObjects\bin\Debug\BussinessObjects.dll
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\BussinessObjects\bin\Debug\BussinessObjects.pdb
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\BussinessObjects\bin\Debug\Types.dll
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\BussinessObjects\bin\Debug\Types.pdb
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\BussinessObjects\obj\x86\Debug\BussinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\BussinessObjects\obj\x86\Debug\BussinessObjects.dll
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\BussinessObjects\obj\x86\Debug\BussinessObjects.pdb

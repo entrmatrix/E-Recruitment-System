@@ -20,3 +20,14 @@ C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjects.pdb
 C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\obj\Debug\DAL.dll
 C:\Users\Sai\Downloads\TeamA_E-recruitment\DAL\obj\Debug\DAL.pdb
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\bin\Debug\DAL.dll
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\bin\Debug\DAL.pdb
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjectFactory.dll
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\bin\Debug\Types.dll
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjects.dll
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjectFactory.pdb
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\bin\Debug\Types.pdb
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\bin\Debug\BussinessObjects.pdb
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\obj\Debug\DAL.dll
+C:\Users\Sai\Desktop\TCS-Training-E-Recruitment-Modules\TeamA_E-recruitment\DAL\obj\Debug\DAL.pdb

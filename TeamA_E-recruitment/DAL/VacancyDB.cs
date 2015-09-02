@@ -13,7 +13,7 @@ namespace DAL
         public List<IVacancy> vacancyList = new List<IVacancy>();
         IVacancy vacancy=null;
 
-        //FUNCTION FOR INSERTING VACANCY
+        //FUNCTION FOR INSERTING VACANCY By Kalyan
         public int InsertVacancy(int noOfPositions, DateTime requiredByDate, string skills, string domain, int experience, string location, int isApproved, int vacancyRequestID)
         {
             int vacancyID=0;
